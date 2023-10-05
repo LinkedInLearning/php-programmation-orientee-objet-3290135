@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `PHP : La programmation orientée objet`
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Dans cette formation qui s'adresse aux développeurs, vous découvrirez la programmation orientée objet (POO) à l'aide de PHP, l'incontournable langage libre de programmation. Après vous avoir présenté les prérequis et l'environnement à installer, Laurent N'daw abordera les classes et les objets, et vous fera comprendre la notion de visibilité. Vous verrez également l'héritage des classes, l'utilisation des attributs et des méthodes, la connexion aux bases de données et la gestion des erreurs. Cette formation s'accompagne d'exemples et d'exercices pratiques.	
 
 ## Installation
 
@@ -18,8 +18,8 @@ DESCRIPTION DE LA FORMATION
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/php-la-programmation-orientee-objet
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQFsWAYrnvw2VQ/learning-public-crop_675_1200/0/1695794847674?e=2147483647&v=beta&t=s__IBza9e2vTtJRW7XvggUESTB6n_YezCjpXixsrn6s
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/laurent-n-daw
 
 [1]: # (End of FR-Instruction ###############################################################################################)

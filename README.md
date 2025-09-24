@@ -6,6 +6,8 @@ Ce dossier Repository est lié au cours `PHP : La programmation orientée objet`
 
 Dans cette formation qui s'adresse aux développeurs, vous découvrirez la programmation orientée objet (POO) à l'aide de PHP, l'incontournable langage libre de programmation. Après vous avoir présenté les prérequis et l'environnement à installer, Laurent N'daw abordera les classes et les objets, et vous fera comprendre la notion de visibilité. Vous verrez également l'héritage des classes, l'utilisation des attributs et des méthodes, la connexion aux bases de données et la gestion des erreurs. Cette formation s'accompagne d'exemples et d'exercices pratiques.	
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
+
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin d'un éditeur de code de votre choix (ex: Visual Studio Code)
